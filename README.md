@@ -18,8 +18,11 @@ Whether you're planning your day or tracking long-term goals, this app keeps eve
 
 ## 🧠 Tech Stack
 
-Frontend: HTML, CSS, JavaScript / React / Vue
-Backend: Node.js / Express (if applicable)
-Database: MongoDB / Firebase / Local Storage
-Styling: Tailwind CSS / Bootstrap / Custom CSS
+1. Frontend: HTML, CSS, JavaScript / React.
+
+2. Backend: Node.js / Express (if applicable)
+
+3. Database: MongoDB / Firebase / Local Storage
+
+4. Styling: Tailwind CSS / Bootstrap / Custom CSS
 
