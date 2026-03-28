@@ -1,16 +1,25 @@
-# React + Vite
+# TODO WEBAPP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, elegant, and powerful task management web application to help you stay organized and productive.
 
-Currently, two official plugins are available:
+The TODO Web App is a lightweight and user-friendly application designed to help users manage daily tasks efficiently. With an intuitive interface and responsive design, it ensures a smooth experience across devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Whether you're planning your day or tracking long-term goals, this app keeps everything in one place.
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
+✅ Add, edit, and delete tasks
+📅 Organize tasks by priority or deadline
+✔️ Mark tasks as completed
+🔍 Filter tasks (All / Active / Completed)
+💾 Persistent storage (local storage or backend)
+📱 Fully responsive design
+🌙 Optional dark mode (if implemented)
 
-## Expanding the ESLint configuration
+## 🧠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Frontend: HTML, CSS, JavaScript / React / Vue
+Backend: Node.js / Express (if applicable)
+Database: MongoDB / Firebase / Local Storage
+Styling: Tailwind CSS / Bootstrap / Custom CSS
+
